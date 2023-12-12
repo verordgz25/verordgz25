@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<!--
-**verordgz25/verordgz25** is a ✨ Product Manager✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+**verordgz25** is a ✨ Product Manager✨ 
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: @verordgz
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love cooking
--->
+
